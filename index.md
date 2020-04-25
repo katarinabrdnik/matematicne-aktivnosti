@@ -34,7 +34,7 @@ Datoteka: [**simetrija.pdf**](./gradivo/simetrija.pdf)
 
 Avtor angleškega originala [Fold, punch and cut for
 symmetry](http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/) je [Joel David
-Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedli in priredili:
+Hamkins](http://jdh.hamkins.org). V slovenščino so ga prevedle in priredile:
 
 * [Katarina Brdnik](https://github.com/katarinabrdnik)
 * [Špela Plevel](https://github.com/spelaplevel)
@@ -63,6 +63,23 @@ priredili:
 
 </div>
 </div>
+
+### Naredi svoj Möbiusov trak
+
+<div class="aktivnost" markdown="1">
+
+[![Möbiusov trak](/gradivo/thumbnail/Möbiusov-trak.png)](./gradivo/Möbiusov-trak.pdf)
+
+<div class="opis-aktivnosti" markdown="1">
+
+Datoteka: [**Möbiusov-trak.pdf**](./gradivo/Möbiusov-trak.pdf)
+
+Avtor angleškega originala [Make your own Möbius band at home](http://jdh.hamkins.org/math-for-six-year-olds/)
+je [Joel David Hamkins](http://jdh.hamkins.org). V slovenščino sta ga prevedli in
+priredili:
+
+* [Katarina Brdnik](https://github.com/katarinabrdnik)
+* [Špela Plevel](https://github.com/spelaplevel)
 
 ## O projektu
 
