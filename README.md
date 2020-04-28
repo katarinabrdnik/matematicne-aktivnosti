@@ -1,6 +1,6 @@
 # Matematične aktivnosti
 
-Na tem forku samo preizkupam reči, preden jih dodam na uraden repository.
+Na tem forku samo preizkušam reči, preden jih dodam na uraden repository.
 
 Matematične aktivnosti za otroke in vse, ki jih veseli matematika.
 
